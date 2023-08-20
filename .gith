@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+git checkout Editor
+git commit -am initial 
+git push

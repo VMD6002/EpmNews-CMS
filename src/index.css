@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-logo2;
+}
+img {
+  @apply object-cover w-11/12 mx-auto;
+}
+iframe {
+  @apply sm:w-11/12 sm:h-[400px] h-[200px] w-[300px] mx-auto my-4;
+}
